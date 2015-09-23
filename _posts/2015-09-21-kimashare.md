@@ -11,7 +11,7 @@ it's designed for sharing files between teams or groups, you can think it like f
 
 Repo URL: [kimashare](https://github.com/sawima/kimashare)
 
-## [Demo](kimashare.kimatech.com)
+## [Demo](http://kimashare.kimatech.com)
 you can try it, feedback are welcomed.
 User Name and Password: demo@kimatech.com/demo
 

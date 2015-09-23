@@ -6,7 +6,8 @@ summary:    Linux command collections
 categories: Linux
 ---
 ## How to get Hardware model information
-
-> sudo dmidecode
-> sudo dmidecode | grep -A8 '^System Information'
-> sudo dmidecode -s system-serial-number/xxxxx/......
+{% highlight bash %}
+sudo dmidecode
+sudo dmidecode | grep -A8 '^System Information'
+sudo dmidecode -s system-serial-number/xxxxx/......
+{% endhighlight %}

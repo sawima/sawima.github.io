@@ -4,7 +4,7 @@ email:       james2004hj@gmail.com
 author:      sawima
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://blog.kimatech.com"
+url:         ""
 date_format: "%b %-d, %Y"
 
 # Google services

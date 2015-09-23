@@ -7,9 +7,6 @@ categories: Linux
 ---
 ## How to get Hardware model information
 
-```
-sudo dmidecode 
-
-sudo dmidecode | grep -A8 '^System Information'
-sudo dmidecode -s system-serial-number/xxxxx/......
-```
+`sudo dmidecode`
+`sudo dmidecode | grep -A8 '^System Information'`
+`sudo dmidecode -s system-serial-number/xxxxx/......`

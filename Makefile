@@ -1,5 +1,5 @@
 build:
-	cd demobook && mdbook build && cd ..
+	cd demobook && rm -Rf book && mdbook build && cd ..
 	rm -Rf docs && mkdir docs
 	cp -rp demobook/book/* docs/
 	git update-ref -d refs/heads/gh-pages
